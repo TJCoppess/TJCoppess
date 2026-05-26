@@ -52,7 +52,3 @@ I'm always working to become a better developer by building projects, experiment
 ![](https://streak-stats.demolab.com/?user=TJCoppess&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TJCoppess&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-##  Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=TJCoppess&limit=5&theme=dark&combine_all_yearly_contributions=true)
