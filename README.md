@@ -6,7 +6,7 @@ I'm an undergraduate student double majoring in **Computer Science** and **Cyber
 
 I enjoy working on data-driven and software-focused projects, including personal tools, developer utilities, cybersecurity projects, and larger systems that solve real problems or make new things possible through code and technology.
 
-Currently, I'm learning more about **AI, LLMs, and machine learning** while continuing to improve my programming, cybersecurity, and problem-solving skills.
+Currently, I'm learning more about **AI, LLMs, and ML** while continuing to improve my programming, cybersecurity, and problem-solving skills.
 
 I'm especially interested in projects involving:
 
